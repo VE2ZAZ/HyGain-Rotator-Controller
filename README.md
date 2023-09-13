@@ -12,4 +12,4 @@ Like most HyGain antenna rotator models, the TailTwister is a rugged and dependa
 
 This project details the design and construction of an add-on unit to existing CD-45, CD45-II, Ham-III, Ham-IV and TailTwister rotator control boxes, It brings several desirable features, such as a color touch-screen, a rotary encoder and remote control via a computer. This makes it a real automated unit! No more manual controls...unless you still want to!
 
-This is the firmware repository for this project. For more details on the project implementation (features, hardware, operation, etc.), please visit [the author's website](https://ve2zaz.net/T2X_Rotator_Cntrl/Modern_T2X_Control.htm).
+This is the firmware repository for the project. For more details on the project implementation (features, hardware, operation, etc.), please visit [the author's website](https://ve2zaz.net/T2X_Rotator_Cntrl/Modern_T2X_Control.htm).
