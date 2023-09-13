@@ -1,4 +1,4 @@
-# HyGain_Rotator_Control_Box
+# Modern HyGain Rotator Controller 
 Let's improve an existing HyGain rotator analog control box by adding a modern color touch-screen controller.
 
 ![The display of VE2ZAZ's Modern HyGain Controller to the left of the existing HyGain control box](./images/Both_Pictured.png)
